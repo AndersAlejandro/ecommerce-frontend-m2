@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "titulo": "Batería de Cocina 7 Piezas",
+    "descripcion": "Set completo de ollas y sartenes antiadherentes con tapas de vidrio templado. Resistentes y fáciles de limpiar.",
+    "imagen": "assets/img/ollas.webp",
+    "precio": 55000
+  },
+  {
+    "id": 2,
+    "titulo": "Set de Utensilios Bambú",
+    "descripcion": "Juego de 6 espátulas y cucharones hechos de bambú ecológico. No rayan el teflón y resisten altas temperaturas.",
+    "imagen": "assets/img/utensilios.webp",
+    "precio": 15000
+  },
+  {
+    "id": 3,
+    "titulo": "Microondas Digital Silver",
+    "descripcion": "Microondas de 20L con panel digital, función de descongelado por peso y 8 menús automáticos.",
+    "imagen": "assets/img/microondas.webp",
+    "precio": 75000
+  },
+  {
+    "id": 4,
+    "titulo": "Cocina a Gas 4 Hornillas",
+    "descripcion": "Cocina de pie con horno de gran capacidad, luz interior y quemadores de alta eficiencia.",
+    "imagen": "assets/img/cocina.webp",
+    "precio": 155000
+  },
+  {
+    "id": 5,
+    "titulo": "Tetera Eléctrica Inox",
+    "descripcion": "Hervidor de agua de 1.7 litros, cuerpo de acero inoxidable y apagado automático al hervir.",
+    "imagen": "assets/img/hervidor.webp",
+    "precio": 35000
+  },
+  {
+    "id": 6,
+    "titulo": "Licuadora Potente 1000W",
+    "descripcion": "Licuadora con vaso de vidrio resistente a choques térmicos y cuchillas de acero capaces de picar hielo.",
+    "imagen": "assets/img/licuadora.webp",
+    "precio": 35000
+  },
+  {
+    "id": 7,
+    "titulo": "Cafetera Express Automática",
+    "descripcion": "Prepara café espresso y cappuccino con espuma cremosa. Depósito de agua extraíble de 1L.",
+    "imagen": "assets/img/cafetera.webp",
+    "precio": 95000
+  },
+  {
+    "id": 8,
+    "titulo": "Tostadora 2 Rebanadas",
+    "descripcion": "Tostadora con ranuras extra anchas, niveles de tostado ajustables y bandeja para migas.",
+    "imagen": "assets/img/tostadora.webp",
+    "precio": 19000
+  }
+]
